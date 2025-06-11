@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"invokeTutorialText",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"invokeTutorialText",
+  "parent":{
+    "name":"Tutorial",
+    "path":"folders/Scripts/Tutorial.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

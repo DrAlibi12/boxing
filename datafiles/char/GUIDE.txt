@@ -1,0 +1,34 @@
+REMOVE ALL BLANK LINES FROM FINAL FILES
+
+name
+spriteName
+
+// INPUT SPEEDS
+inputMaxHoldTime
+inputMaxDodgeTime
+inputMinHookTime
+inputCancelTime
+
+maxHp
+hpRecovery
+hpRecoveryTime
+
+guardSections
+guardAutoRecoveryTime
+guardAutoRecoveryValue
+guardManualRecoveryValue
+
+guardDuration
+jabDuration
+hookDuration
+jabStartTime
+hookStartTime
+
+jabDamage
+hookDamage
+effDamageFactor
+jabStun
+hookStun
+
+restHpRecoveryFactor
+restGuardRecoveryFactor

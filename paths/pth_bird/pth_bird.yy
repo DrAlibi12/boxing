@@ -1,0 +1,20 @@
+{
+  "$GMPath":"",
+  "%Name":"pth_bird",
+  "closed":true,
+  "kind":1,
+  "name":"pth_bird",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":0.0,"y":100.0,},
+    {"speed":100.0,"x":450.0,"y":0.0,},
+    {"speed":100.0,"x":0.0,"y":-100.0,},
+    {"speed":100.0,"x":-450.0,"y":0.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"multiplyColors",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"multiplyColors",
+  "parent":{
+    "name":"_Common",
+    "path":"folders/Scripts/_Common.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

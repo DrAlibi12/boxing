@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TutorialObjective",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TutorialObjective",
+  "parent":{
+    "name":"Tutorial",
+    "path":"folders/Scripts/Tutorial.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

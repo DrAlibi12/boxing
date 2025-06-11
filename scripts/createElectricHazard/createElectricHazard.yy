@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"createElectricHazard",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"createElectricHazard",
+  "parent":{
+    "name":"Hazards",
+    "path":"folders/Scripts/Stages/Hazards.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

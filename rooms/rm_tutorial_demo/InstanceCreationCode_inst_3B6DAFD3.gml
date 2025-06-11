@@ -1,0 +1,1 @@
+initFadeIn(c_black, 2);

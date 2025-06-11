@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"createLocalMenuInputManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"createLocalMenuInputManager",
+  "parent":{
+    "name":"MenuInputs",
+    "path":"folders/Scripts/Input/MenuInputs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

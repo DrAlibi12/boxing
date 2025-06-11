@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"string_to_datetime",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"string_to_datetime",
+  "parent":{
+    "name":"_Common",
+    "path":"folders/Scripts/_Common.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

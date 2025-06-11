@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FighterMacros",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FighterMacros",
+  "parent":{
+    "name":"Fighters",
+    "path":"folders/Scripts/Fighters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

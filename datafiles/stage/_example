@@ -1,0 +1,15 @@
+0                       // background type: 0 = BackgroundType.Common; 1 = BackgroundType.Background360
+bkg_electricage_b       // background image
+bkg_electricage         // foreground image
+-1                      // static background image
+0                       // is endless
+bgm_test				// BGM
+obj_spotlight           // fight end overlay
+0                       // fightersOutside: determines if fighters start outside of the view and enter the screen, or should appear in the middle since the start
+createElectricHazard,	// hazard spawn left function
+createElectricHazard,	// hazard spawn right function
+rows, 					// crowd rows
+peoplePerRow, 			// crowd people per row
+scaleMax, 				// crowd max scale
+scaleDec, 				// crowd scale decrement
+autoSpawn 				// crowd auto spawn

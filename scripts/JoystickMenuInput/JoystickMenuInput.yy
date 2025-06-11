@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"JoystickMenuInput",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"JoystickMenuInput",
+  "parent":{
+    "name":"MenuInputs",
+    "path":"folders/Scripts/Input/MenuInputs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

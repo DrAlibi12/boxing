@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Fighter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Fighter",
+  "parent":{
+    "name":"Fighters",
+    "path":"folders/Scripts/Fighters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

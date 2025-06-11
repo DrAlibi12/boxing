@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"CrowdConfig",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CrowdConfig",
+  "parent":{
+    "name":"Stages",
+    "path":"folders/Scripts/Stages.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

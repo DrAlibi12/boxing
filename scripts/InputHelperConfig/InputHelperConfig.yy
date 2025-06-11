@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"InputHelperConfig",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"InputHelperConfig",
+  "parent":{
+    "name":"Tutorial",
+    "path":"folders/Scripts/Tutorial.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

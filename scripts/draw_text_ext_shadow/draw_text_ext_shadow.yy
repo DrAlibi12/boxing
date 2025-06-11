@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_text_ext_shadow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_text_ext_shadow",
+  "parent":{
+    "name":"_Common",
+    "path":"folders/Scripts/_Common.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

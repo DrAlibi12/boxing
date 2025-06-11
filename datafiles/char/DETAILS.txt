@@ -1,0 +1,9 @@
+Dodge -> efectivo contra hooks, pero no contra jabs?
+
+Jab -> Ataque rápido, poco daño. Rieso bajo
+
+Hook -> Ataque lento, muchísimo daño. Riesgo alto
+
+Guardia -> Efectiva contra jabs. Débil contra hooks
+Aumentar guard stun ?
+

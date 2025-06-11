@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_score_increase",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.264399,
+  "name":"snd_score_increase",
+  "parent":{
+    "name":"Scorebar",
+    "path":"folders/Sounds/Scorebar.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_score_increase.ogg",
+  "type":0,
+  "volume":1.0,
+}

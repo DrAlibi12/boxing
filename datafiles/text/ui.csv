@@ -1,0 +1,29 @@
+KEY,EN,ES
+key_space,Space,Espacio
+joy_start,Start,Start
+hold_to_skip,Hold '{0}' to skip,Manten '{0}' para omitir
+menu_arcade,ARCADE,ARCADE
+menu_arcade_mobile,TAP TO START,TOCA PARA COMENZAR
+menu_pvc,P1 VS CPU,J1 VS CPU
+menu_pvp,P1 VS P2,J1 VS J2
+menu_cvc,CPU VS CPU,CPU VS CPU
+menu_language,LANGUAGE,IDIOMA
+menu_quit,QUIT,SALIR
+menu_options,OPTIONS,OPCIONES
+menu_fullscr,FULLSCREEN,PANTALLA COMPLETA
+menu_volume,VOLUME,VOLUMEN
+story_new_game,NEW GAME,NUEVA PARTIDA
+story_continue,CONTINUE,CONTINUAR
+story_overwrite_msg,OVERWRITE SAVED GAME?,¿SOBREESCRIBIR DATOS GUARDADOS?
+end_menu_retry,RETRY,REINTENTAR
+end_menu_rematch,REMATCH,REVANCHA
+end_menu_selection,SELECT FIGHTERS,SELECCIONAR LUCHADOR
+end_menu_quit,QUIT,SALIR
+demo_end_text,Thanks for playing the demo!,¡Gracias por jugar la demo!
+chapter_i_name,PUNCH,GOLPEA
+chapter_ii_name,PUNCH HARDER,GOLPEA MÁS FUERTE
+chapter_iii_name,HIGH STAKES,RIESGO ALTO
+yes,Yes,Sí
+no,No,No
+on,ON,ACTIVADO
+off,OFF,DESACTIVADO

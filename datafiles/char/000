@@ -1,0 +1,27 @@
+Juan Punch
+spr_fighter_new
+350                 -- max hold time
+150                 -- dodge time 150
+300                 -- hook min time
+0                   -- max cancel time
+30                  -- max HP
+1                   -- HP recovery 1
+0.1                 -- HP recover every seconds 0.5
+4                   -- guard HP section quantity
+0.1                 -- guard auto recover every seconds
+1                   -- guard auto recover value 0.25
+4                   -- guard manual recover value (when dizzy) 1
+0.2                 -- dodge duration 0.2
+0.3                 -- dodge recover duration 0.3
+0.1                 -- guard duration 0.1
+0.2                 -- jab duration 0.2
+0.5                 -- hook duration 0.4
+0.1                 -- jab start 0.1 -> 0.02 rallo macuin
+0.3                 -- hook start
+3                   -- jab damage
+7                   -- hook damage
+0.4                 -- effective damage factor (damage that can't be recovered) (UNUSED)
+0.3                 -- jab stun
+0.8                 -- hook stun
+0.2                 -- rest hp recovery factor
+0.3                 -- rest guard recovery factor

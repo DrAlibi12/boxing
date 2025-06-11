@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"createHelicopterDoorHazard",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"createHelicopterDoorHazard",
+  "parent":{
+    "name":"Hazards",
+    "path":"folders/Scripts/Stages/Hazards.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

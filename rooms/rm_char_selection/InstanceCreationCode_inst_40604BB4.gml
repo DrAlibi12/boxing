@@ -1,0 +1,1 @@
+initGameStarter(2/*, rm_fight_pvp*/);

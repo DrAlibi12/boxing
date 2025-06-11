@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"CPUBehaviorConfig",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CPUBehaviorConfig",
+  "parent":{
+    "name":"Tutorial",
+    "path":"folders/Scripts/Tutorial.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
