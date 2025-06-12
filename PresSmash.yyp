@@ -380,6 +380,7 @@
     {"id":{"name":"spr_dialogue","path":"sprites/spr_dialogue/spr_dialogue.yy",},},
     {"id":{"name":"spr_exclamation_sign","path":"sprites/spr_exclamation_sign/spr_exclamation_sign.yy",},},
     {"id":{"name":"spr_fanatic","path":"sprites/spr_fanatic/spr_fanatic.yy",},},
+    {"id":{"name":"spr_fighter_enio","path":"sprites/spr_fighter_enio/spr_fighter_enio.yy",},},
     {"id":{"name":"spr_fighter_ivo","path":"sprites/spr_fighter_ivo/spr_fighter_ivo.yy",},},
     {"id":{"name":"spr_fighter_manley","path":"sprites/spr_fighter_manley/spr_fighter_manley.yy",},},
     {"id":{"name":"spr_fighter_milton","path":"sprites/spr_fighter_milton/spr_fighter_milton.yy",},},
