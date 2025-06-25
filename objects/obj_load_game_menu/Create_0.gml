@@ -83,6 +83,15 @@ function startGame() {
 	var _slotId = optionId;
 	var _objArcade = instance_find(obj_arcade_progression, 0);
 	_objArcade.startLoadedGame(_slotId);
+	// ENABLE ARCADE MODE
+	_objArcade.isEnabled = true;
+	// SET ARCADE MODE CHARACTER
+	PLAYER_IS_CPU[1]		= false;
+	PLAYER_CPU_ID[1]		= 5;
+	PLAYER_OBJ_FIGHTER[1]	= obj_fighter;
+	PLAYER_FIGHTER_ID[1]	= Roster.Juan;
+
+	
 	
 	//with (obj_main_menu) {
 	//	doRunOption();

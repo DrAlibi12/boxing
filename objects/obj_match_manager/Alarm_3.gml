@@ -1,6 +1,6 @@
 /// @description Show options
 
-if (objArcadeProgression != noone && winner == 1) {
+if (objArcadeProgression != noone && objArcadeProgression.isEnabled && winner == 1) {
 	// INCREASE ARCADE LEVEL
 	objArcadeProgression.gotoNextFight();
 } else {

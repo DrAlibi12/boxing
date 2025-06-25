@@ -20,6 +20,8 @@ targetRoom = -1;
 
 objFadeOut = instance_create_layer(0, 0, "Foreground", obj_fade_out);
 
+instance_create_layer(0, 0, "Back", obj_select_your_fighter_msg);
+
 function deselectPlayer(_playerId, _reassignInput=false) {
 	fightersSelected[_playerId] = noone;
 	enabled = true;

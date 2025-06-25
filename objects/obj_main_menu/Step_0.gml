@@ -12,12 +12,7 @@ if (exiting) {
 		if (_targetRoom == rm_tutorial_demo && objArcade.CUR_FIGHT_ID > 0) {
 			_targetRoom = rm_chapter_intro;
 		}
-		
-		if (_targetRoom == rm_tutorial_demo || _targetRoom == rm_fight) {
-			// Enable Arcade Mode
-			with (obj_arcade_progression) isEnabled = true;
-		}
-		
+
 		room_goto(_targetRoom);
 	}
 }

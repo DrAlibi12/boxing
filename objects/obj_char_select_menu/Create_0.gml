@@ -30,7 +30,7 @@ vMargin = CHAR_SELECTION_MENU_V_MARGIN;
 
 angle = 0;
 //unselectedScale = 0.75;
-unselectedScaleSub = 0.25;
+unselectedScaleSub = 0.2;
 unselectedAlphaSub = 0.25;
 
 cursorScale = 1;

@@ -15,17 +15,16 @@ if (!selected) {
 	var _id = optionId - 1;
 	//for (var _i=0; _i <= optionQty - 1; _i++) {
 	for (var _i=-1; _i <= -1 + optionQty; _i++) {
-		//var _scale = 1 - unselectedScaleSub * abs(_i);
-		var _scale = 1;
-		var _alpha = 1 - unselectedAlphaSub * abs(_i);
+		var _scale = 1 - unselectedScaleSub/* * abs(_i)*/;
+		var _alpha = 1;// - unselectedAlphaSub * abs(_i);
 		if (_id < 0) _id += maxOptionId + 1;
 		if (_id > maxOptionId) _id -= maxOptionId + 1;
 		if (_id != optionId) {
 			draw_sprite_ext(
 				spr_portraits, _id,
-				x, y + (sprite_get_height(spr_portraits) * _scale + vMargin) * _i,
+				x, y + (sprite_get_height(spr_portraits) /** _scale */+ vMargin) * _i,
 				//x, y + (sprite_get_height(spr_portraits) * _scale + vMargin) * _i,
-				_scale * _cursorOrientation, _scale, 0, c_white, _alpha
+				_scale * _cursorOrientation, _scale, 0, c_gray, _alpha
 			);
 			//draw_text_transformed(x, y + 80 * _i, options[_id, 0], 0.7, 0.7, 0);
 		}

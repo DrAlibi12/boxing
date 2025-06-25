@@ -198,7 +198,8 @@ function setupCurrentFight() {
 	objFightSetup.fightSetFighters(
 		// PLAYER FIGHTER (USE CURRENT)
 		objFightSetup.PLAYER_OBJ_FIGHTER[1],
-		objFightSetup.PLAYER_FIGHTER_ID[1],
+		// ARCADE MODE ALWAYS JUAN
+		Roster.Juan, // objFightSetup.PLAYER_FIGHTER_ID[1],
 
 		// CPU FIGHTER (USE CURRENT FIGHT)
 		objFightSetup.PLAYER_OBJ_FIGHTER[2],
